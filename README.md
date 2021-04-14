@@ -1,5 +1,5 @@
 # MSB
-Messenger Bot Project
+Messenger Bot Project (2017.02)
 [[VIDEO](https://www.youtube.com/watch?v=fgXrmwN3tbE)]  
 
 ### 기존 활용 패키지/ 노드   
